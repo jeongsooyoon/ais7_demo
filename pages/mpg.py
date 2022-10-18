@@ -68,7 +68,7 @@ st.bar_chart(data["mpg"])
 st.area_chart(data["mpg"])
 
 fig, ax = plt.subplots(figsize=(10, 2))
-sns.barplot(data = data, x = "cylinders", y = "mpg", hue = "origin", ci = None).set_title("실린더 개수, 지역별 mpg 값")
+sns.barplot(data = data, x = "cylinders", y = "mpg", hue = "origin", ci = None).set_title("실린더 개수, 지역별 mpg")
 st.pyplot(fig)
 
 fig, ax = plt.subplots(figsize=(10, 3))
