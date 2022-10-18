@@ -24,7 +24,7 @@
 ## 사진 올리기
 
 ### 1. 링크로 올리기
-![image](https://user-images.githubusercontent.com/115914215/196315067-c39501c9-3b52-4ef4-949a-8ce1234d1885.png)
+![image_name](https://user-images.githubusercontent.com/115914215/196315067-c39501c9-3b52-4ef4-949a-8ce1234d1885.png)
 
 ### 2. 사진 크기 조정
 <img src= https://user-images.githubusercontent.com/115914215/196315067-c39501c9-3b52-4ef4-949a-8ce1234d1885.png width=100 height=50>
